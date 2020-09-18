@@ -7,7 +7,7 @@ void login(){
 	char uname[10],c=' ',pword[10],code[10],user[]="user",pass[]="pass";
 	do{
 		printf("\n---------------------------LOGIN----------------------\n");
-		printf("\n\t\tEnter Username: ");
+		printf("\n\t\tEnter the user Username: ");
 		scanf("%s",uname);
 		getchar();
 		printf("\t\tEnter Password: ");
