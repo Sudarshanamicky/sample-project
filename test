@@ -1,2 +1,9 @@
 #include "main.c"
 #include "header.h"
+
+void login()
+{
+TEST_ASSERT-EQUAL(user,user);
+TEST_ASSERT-EQUAL(pass,pass);
+
+}
