@@ -5,7 +5,7 @@ PROJECT_NAME =sample-project
 BUILD = build
 
 # All source code files
-SRC = main.c\
+SRC = onlymain.c\
 header.h\
 
 
